@@ -18,6 +18,8 @@
     "log4js": "*",
     "querystring": "*",
     "request": "*",
-    "sort-object": "*"
+    "sort-object": "*",
+    "express": "*",
+    "http": "*"
   }  
 }
