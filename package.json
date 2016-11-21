@@ -20,6 +20,7 @@
     "request": "*",
     "sort-object": "*",
     "express": "*",
-    "http": "*"
+    "http": "*",
+    "body-parser": "*"
   }  
 }
